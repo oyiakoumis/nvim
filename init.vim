@@ -1,0 +1,26 @@
+" General
+source $HOME/.config/nvim/general/settings.vim
+" Plugins
+source $HOME/.config/nvim/vim-plug/plugins.vim
+" Keys
+source $HOME/.config/nvim/keys/mappings.vim
+source $HOME/.config/nvim/keys/compile.vim
+" Themes
+source $HOME/.config/nvim/themes/onedark.vim
+source $HOME/.config/nvim/themes/airline.vim
+luafile $HOME/.config/nvim/themes/bufferline.lua
+" Plugin configurations
+source $HOME/.config/nvim/plug-config/coc.vim
+source $HOME/.config/nvim/plug-config/vimspector.vim
+source $HOME/.config/nvim/plug-config/nerdtree.vim
+source $HOME/.config/nvim/plug-config/vim-router.vim
+source $HOME/.config/nvim/plug-config/start-screen.vim
+source $HOME/.config/nvim/plug-config/sneak.vim
+source $HOME/.config/nvim/plug-config/quick-scope.vim
+source $HOME/.config/nvim/plug-config/floaterm.vim
+source $HOME/.config/nvim/plug-config/snippets.vim
+source $HOME/.config/nvim/plug-config/telescope.vim
+luafile $HOME/.config/nvim/plug-config/plug-colorizer.lua
+luafile $HOME/.config/nvim/plug-config/tree-sitter.lua
+source $HOME/.config/nvim/plug-config/indentLine.vim
+source $HOME/.config/nvim/plug-config/rainbow.vim
