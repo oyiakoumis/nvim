@@ -24,3 +24,4 @@ luafile $HOME/.config/nvim/plug-config/plug-colorizer.lua
 luafile $HOME/.config/nvim/plug-config/tree-sitter.lua
 source $HOME/.config/nvim/plug-config/indentLine.vim
 source $HOME/.config/nvim/plug-config/rainbow.vim
+source $HOME/.config/nvim/plug-config/vim-illuminate.vim

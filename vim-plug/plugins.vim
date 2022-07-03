@@ -47,4 +47,6 @@ Plug 'akinsho/bufferline.nvim', { 'tag': '*' }
 Plug 'p00f/nvim-ts-rainbow'
 " Display vertical lines at each indentation level
 Plug 'Yggdroot/indentLine'
+" Highlight automatically other occurences of current word under cursor
+Plug 'RRethy/vim-illuminate'
 call plug#end()
