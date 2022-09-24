@@ -21,5 +21,5 @@
     "~/.config/nvim/utils/snips"
   ],
   // Clangd config
-  "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/14.0.3/clangd_14.0.3/bin/clangd"
+  "clangd.path": "/usr/local/bin/clangd"
 }
