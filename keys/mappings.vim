@@ -50,3 +50,6 @@ nnoremap <m-j> :m .+1<CR>==
 nnoremap <m-k> :m .-2<CR>==
 vnoremap <m-j> :m '>+1<CR>gv=gv
 vnoremap <m-k> :m '<-2<CR>gv=gv
+
+" Turn off search highlighting until next search
+nnoremap <silent> <c-c> :noh<CR>
