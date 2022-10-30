@@ -9,7 +9,7 @@ let g:startify_lists = [
           \ ]
 " Specify bookmarks
 let g:startify_bookmarks = [
-            \ { 'c': '~/Desktop/CPP' },
+            \ { 'c': '~/Desktop/C_CPP' },
             \ { 'i': '~/.config/nvim/init.vim' },
             \ { 'z': '~/.zshrc' },
             \ ]

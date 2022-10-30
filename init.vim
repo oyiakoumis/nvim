@@ -14,6 +14,7 @@ source $HOME/.config/nvim/plug-configs/nerdtree.vim
 source $HOME/.config/nvim/plug-configs/start-screen.vim
 source $HOME/.config/nvim/plug-configs/sneak.vim
 source $HOME/.config/nvim/plug-configs/quick-scope.vim
+source $HOME/.config/nvim/plug-configs/vim-commentary.vim
 source $HOME/.config/nvim/plug-configs/snippets.vim
 source $HOME/.config/nvim/plug-configs/telescope.vim
 luafile $HOME/.config/nvim/plug-configs/plug-colorizer.lua
@@ -21,3 +22,4 @@ luafile $HOME/.config/nvim/plug-configs/tree-sitter.lua
 source $HOME/.config/nvim/plug-configs/indentLine.vim
 source $HOME/.config/nvim/plug-configs/rainbow.vim
 source $HOME/.config/nvim/plug-configs/vim-illuminate.vim
+source $HOME/.config/nvim/plug-configs/docgen.vim

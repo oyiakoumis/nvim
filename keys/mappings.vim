@@ -13,8 +13,8 @@ nnoremap <m-H>    :vertical resize -2<cr>
 nnoremap <m-L>    :vertical resize +2<cr>
 
 " I hate escape more than anything else
-inoremap jk <esc>
-inoremap kj <esc>
+" inoremap jk <esc>
+" inoremap kj <esc>
 
 " TAB in general mode will move to text buffer
 nnoremap <tab> :bnext<cr>

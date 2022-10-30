@@ -3,3 +3,7 @@ coc
 init
 sudo
 tabline
+cpp
+ptr
+nfa
+Nondeterministic

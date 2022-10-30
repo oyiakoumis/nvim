@@ -41,4 +41,3 @@ au! BufWritePost $MYVIMRC source %      " auto source when writing to init.vm al
 
 " Write in a file that requires sudo without opening vim with sudo   
 cmap w!! w !sudo tee % 
-

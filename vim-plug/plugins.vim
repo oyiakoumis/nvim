@@ -39,4 +39,8 @@ Plug 'p00f/nvim-ts-rainbow'
 Plug 'Yggdroot/indentLine'
 " Highlight automatically other occurrences of current word under cursor
 Plug 'RRethy/vim-illuminate'
+" Show VCS line modifications
+Plug 'mhinz/vim-signify'
+" Add quicky code documentation
+Plug 'mg979/docgen.vim'
 call plug#end()
